@@ -49,7 +49,7 @@
       "state" : "free",
       "title" : "Tips 1",
       "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "written" : ""
     },
     {
       "id" : 1,
@@ -57,7 +57,7 @@
       "state" : "free",
       "title" : "Tips 2",
       "description" : "",
-      "written" : "Test written 1"
+      "written" : ""
     }
   ]
 }
