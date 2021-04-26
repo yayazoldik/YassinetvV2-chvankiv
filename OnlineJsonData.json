@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_banner_id" : "ca-app-pub-4361163709647364/2817803014",
+      "admob_interstitial_id" : "ca-app-pub-4361163709647364/5934905038",
+      "admob_native_id" : "ca-app-pub-4361163709647364/3364597927",
+      "admob_rewarded_id" : "ca-app-pub-4361163709647364/8616924608",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -45,7 +45,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://play-lh.googleusercontent.com/ZAVsvqS3j5dqsADDDclYUWGLqIbLFHBOkdcysZql5M-TIQHJ1QaZpFeLfBkAKKcVfa8=w1400-h720",
+      "imageURL" : "https://i.imgur.com/dRQR1T9.png",
       "state" : "free",
       "title" : "Tips 1",
       "description" : "",
@@ -53,7 +53,23 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://play-lh.googleusercontent.com/IYbskHwruhEDlUtDcIMXocP37mwewu7bZSfSVmCJ6nDW1arNCaiSx3y4MhVf87rsA6I=w1400-h720",
+      "imageURL" : "https://i.imgur.com/H7ajnmC.jpg",
+      "state" : "free",
+      "title" : "Tips 2",
+      "description" : "",
+      "written" : ""
+    },
+     {
+      "id" : 2,
+      "imageURL" : "https://i.imgur.com/3Lmd9JG.jpg",
+      "state" : "free",
+      "title" : "Tips 2",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://i.imgur.com/gWDPgAV.jpg",
       "state" : "free",
       "title" : "Tips 2",
       "description" : "",
