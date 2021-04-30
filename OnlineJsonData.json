@@ -24,7 +24,7 @@
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
-    "mode_button_ads_action" : "0",
+    "mode_button_ads_action" : "https://canada.hijera.com",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
