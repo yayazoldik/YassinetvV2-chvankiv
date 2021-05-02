@@ -34,7 +34,7 @@
     "update" : {
       "enable_update_closed" : true,
       "update_action" : "https://canada.hijera.com",
-      "update_msg" : "نعمل على تحديث التطبيق المرجوا لأجل خدمة أفضل - يمكن الضغط على الزر أسفله بينما نقوم بالتحديث",
+      "update_msg" : "click here",
       "update_state" : false,
       "update_title" : "Messge From Developer"
     },
