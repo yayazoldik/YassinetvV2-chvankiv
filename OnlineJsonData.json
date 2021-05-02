@@ -33,10 +33,10 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "",
-      "update_msg" : "update your app for grt all favorite now",
+      "update_action" : "https://canada.hijera.com",
+      "update_msg" : "نعمل على تحديث التطبيق المرجوا لأجل خدمة أفضل - يمكن الضغط على الزر أسفله بينما نقوم بالتحديث",
       "update_state" : false,
-      "update_title" : "update your app"
+      "update_title" : "Messge From Developer"
     },
     "app" : {
       "mode_off_version" : "0"
