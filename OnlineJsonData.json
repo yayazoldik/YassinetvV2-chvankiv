@@ -32,10 +32,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "https://canada.hijera.com",
       "update_msg" : "click here",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "Messge From Developer"
     },
     "app" : {
