@@ -20,7 +20,7 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL"
     },
-    "mode_ads_banner" : "",
+    "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
