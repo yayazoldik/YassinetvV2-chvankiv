@@ -6,25 +6,25 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-1279153177881780/9223115601",
-      "admob_interstitial_id" : "ca-app-pub-1279153177881780/6596952266",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
       "admob_native_id" : "",
-      "admob_rewarded_id" : "ca-app-pub-1279153177881780/1344625587",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL"
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
     },
     "mode_ads_banner" : "",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
-    "mode_button_ads_action" : "https://canada.hijera.com",
+    "mode_button_ads_action" : "",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -33,7 +33,7 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://canada.hijera.com",
+      "update_action" : "",
       "update_msg" : "click here",
       "update_state" : false,
       "update_title" : "Messge From Developer"
@@ -48,8 +48,8 @@
       "imageURL" : "https://i.imgur.com/dRQR1T9.png",
       "state" : "free",
       "title" : "Tips 1",
-      "description" : " شاهد من هنا : https://bit.ly/32YiFmV ",
-      "written" : "https://bit.ly/32YiFmV "
+      "description" : "  ",
+      "written" : " "
     },
     {
       "id" : 1,
