@@ -45,7 +45,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://i.imgur.com/dRQR1T9.png",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Tips 1",
       "description" : "  ",
@@ -53,7 +53,7 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://i1.wp.com/crowdwisdom.live/wp-content/uploads/2021/05/Manchester-City-vs-Chelsea-Football-Predictions-and-Betting-Odds.jpg?fit=1451%2C760&ssl=1",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Tips 2",
       "description" : "",
@@ -61,7 +61,7 @@
     },
      {
       "id" : 2,
-      "imageURL" : "https://i.imgur.com/3Lmd9JG.jpg",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Tips 2",
       "description" : "",
@@ -69,7 +69,7 @@
     },
     {
       "id" : 3,
-      "imageURL" : "https://i.imgur.com/gWDPgAV.jpg",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Tips 2",
       "description" : "",
