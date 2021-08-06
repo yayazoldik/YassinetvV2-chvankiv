@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "",
-      "admob_rewarded_id" : "",
+      "admob_banner_id" : "ca-app-pub-6927958060695168/4045711435",
+      "admob_interstitial_id" : "ca-app-pub-6927958060695168/5671167184",
+      "admob_native_id" : "ca-app-pub-6927958060695168/7358270480",
+      "admob_rewarded_id" : "ca-app-pub-6927958060695168/6365780684",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -32,10 +32,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://canada.hijera.com",
+      "enable_update_closed" : true,
+      "update_action" : "",
       "update_msg" : "click here",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "Messge From Developer"
     },
     "app" : {
