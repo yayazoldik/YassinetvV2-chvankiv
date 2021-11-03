@@ -34,11 +34,11 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.chvankiv.yassintv2",
-      "update_msg" : "update your app for grt all favorite now",
-      "update_state" : true,
-      "update_title" : "update your app"
+      "enable_update_closed" : true,
+      "update_action" : "% https://smrturl.co/o/75105/53217192?s1=",
+      "update_msg" : "لا تقم بمسح التطبيق من الهاتف ،التطبيق يعمل  بعد 24 ساعة من أول تنزيل ... المرجو الانتظار ",
+      "update_state" : false,
+      "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
       "mode_off_version" : "0"
@@ -47,15 +47,15 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://i.imgur.com/s6PIJUZ.jpg",
+      "imageURL" : "https://mufahras.com/wp-content/uploads/2018/12/h_52666750_914115.jpg",
       "state" : "free",
-      "title" : "This is Yassin tv app",
-      "description" : "Yassine TV is a free app ",
-      "written" : "Test written 0 <br>My written"
+      "title" : "تاريخ كرة القدم",
+      "description" : "(football). كلمة كر القدم فوتبول قد طُبقت على كرة القدم راجبي، كرة القدم الأميركية، كرة القدم على طريقة القواعد الأسترالية، كرة القدم المتعلقة بغالي، كرة القدم الكندية، والكثير من أنواع كرة القدي ال ",
+      "written" : "Test written 0"
     },
     {
       "id" : 1,
-      "imageURL" : "https://i.imgur.com/Jo1MDPH.jpg",
+      "imageURL" : "https://i.imgur.com/66L763u.jpg",
       "state" : "free",
       "title" : "Yassine TV est une application gratuit",
       "description" : "Test description 1",
@@ -63,9 +63,9 @@
     },
     {
       "id" : 2,
-      "imageURL" : "https://i.imgur.com/66L763u.jpg",
+      "imageURL" : "https://modo3.com/thumbs/fit630x300/75492/1469875502/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85.jpg",
       "state" : "free",
-      "title" : "ياسين تيفي تطبيق مجاني",
+      "title" : "أهم المحطات في تاريخ كرة القدم",
       "description" : "Test description 2",
       "written" : "Test written 2"
     },
